@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ikone/clear.png</file>
+        <file>Ikone/close.png</file>
+        <file>Ikone/new.png</file>
+        <file>Ikone/delete.png</file>
+        <file>Ikone/open.png</file>
+        <file>Ikone/save.png</file>
+        <file>Ikone/window_logo.png</file>
+        <file>Ikone/saveas.ico</file>
+    </qresource>
+</RCC>
